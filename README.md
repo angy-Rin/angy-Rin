@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+```javascript
 const angelica = {
   bio: 'Breve descripción sobre mi',
   code: [Javascript, HTML, CSS],
