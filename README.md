@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-A little about me...
-
-<img src="https://github.com/angy-Rin/angy-Rin/assets/72713821/fefc0439-67a6-4e35-86b3-a70e759835d0" width="100" alt="Descripción de la imagen">
+A little about me...<img src="https://github.com/angy-Rin/angy-Rin/assets/72713821/fefc0439-67a6-4e35-86b3-a70e759835d0" width="100" alt="Descripción de la imagen">
 
 ```javascript
 const angelica = {
