@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+A little about me...
 ```javascript
 const angelica = {
   bio: 'Breve descripción sobre mi',
