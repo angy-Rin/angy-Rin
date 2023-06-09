@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+```
 const angelica = {
   bio: 'Breve descripción sobre mi',
   code: [Javascript, HTML, CSS],
   tools: [Nodejs, Firebase, Jest, Git, Figma],
 };
-
+```
 <!--
 **angy-Rin/angy-Rin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
