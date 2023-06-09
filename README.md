@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 A little about me...
+![code](https://github.com/angy-Rin/angy-Rin/assets/72713821/fefc0439-67a6-4e35-86b3-a70e759835d0)
+
 ```javascript
 const angelica = {
   bio: 'Breve descripción sobre mi',
