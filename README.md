@@ -4,7 +4,7 @@ A little about me...
 
 ```javascript
 const angelica = {
-  bio: 'Breve descripción sobre mi',
+  bio: 'Soy una desarrolladora Frontend apasionada por el autoaprendizaje. Durante el caótico 2021, descubrí mi habilidad para aprender por mi cuenta al programar una red neuronal funcional, a pesar de empezar teniendo conocimientos limitados sobre el tema Desde entonces. fui acumulando habilidades tech, asi como habilidades blandas como el trabajo en equipo al tener la oportunidad de trabajar con personas de diferentes paises',
   code: [Javascript, HTML, CSS],
   tools: [Nodejs, Firebase, Jest, Git, Figma],
 };
