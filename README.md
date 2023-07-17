@@ -3,12 +3,12 @@
 
 ```javascript
 const angelica = {
-  aboutme: 'Soy una desarrolladora Frontend apasionada por el autoaprendizaje. Durante el 
-            caótico 2021, descubrí mi habilidad para aprender por mi cuenta al programar
-            una red neuronal funcional, a pesar de empezar teniendo conocimientos limitados
-            sobre el tema Desde entonces, fui acumulando habilidades tech, asi como habilidades
-            blandas como el trabajo en equipo al tener la oportunidad de trabajar con personas
-            de diferentes paises',
+  aboutme: 'Soy una desarrolladora Frontend apasionada por el autoaprendizaje. Descubri mi
+gusto por la programación al haber desarrollado una red neuronal , a pesar de
+empezar con limitados conocimientos sobre el tema. Desde entonces, quise
+especializarme en programación y fui acumulando habilidades tech en Javascript,
+HTML, CSS, Nodejs, Git, diseño UI, Firebase, React, etc, al igual que habilidades
+blandas como la iniciativa, solución de problemas, y el trabajo en equipo.',
   code: [Javascript, HTML, CSS],
   tools: [Nodejs, Firebase, Jest, Git, Figma],
 };
