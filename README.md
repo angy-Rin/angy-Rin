@@ -8,8 +8,7 @@ gusto por la programación durante el 2021, donde desarrolle mi primer programa
 enfocado a usuarios , a pesar de empezar con limitados conocimientos sobre el
 tema. Desde entonces, quise especializarme en programación y fui acumulando
 habilidades tech, al igual que habilidades blandas como la iniciativa, solución de problemas, y el
-trabajo en equipo.
-.',
+trabajo en equipo',
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Nodejs, Firebase, Jest, Git, Figma],
 };
