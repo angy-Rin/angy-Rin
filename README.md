@@ -4,11 +4,12 @@
 ```javascript
 const angelica = {
   aboutme: 'Soy una desarrolladora Frontend apasionada por el autoaprendizaje. Descubri mi
-gusto por la programación al haber desarrollado una red neuronal , a pesar de
-empezar con limitados conocimientos sobre el tema. Desde entonces, quise
-especializarme en programación y fui acumulando habilidades tech en Javascript,
-HTML, CSS, Nodejs, Git, diseño UI, Firebase, React, etc, al igual que habilidades
-blandas como la iniciativa, solución de problemas, y el trabajo en equipo.',
+gusto por la programación durante el 2021, donde desarrolle mi primer programa
+enfocado a usuarios , a pesar de empezar con limitados conocimientos sobre el
+tema. Desde entonces, quise especializarme en programación y fui acumulando
+habilidades tech, al igual que habilidades blandas como la iniciativa, solución de problemas, y el
+trabajo en equipo.
+.',
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Nodejs, Firebase, Jest, Git, Figma],
 };
